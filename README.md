@@ -1,8 +1,8 @@
 # Documentation for Cirrus CI 📚
 
-[![Build Status](https://api.cirrus-ci.com/github/cirruslabs/cirrus-ci-docs.svg)](https://cirrus-ci.com/github/cirruslabs/cirrus-ci-docs)
+[![Build Status](https://api.cirrus-ci.com/github/cirruslabs/cirrus-ci-docs.svg)/data/data/com.termux/files/home/contracts-solidity/bitcoin-PinkDiamondBTC/my-website](https://cirrus-ci.com/github/cirruslabs/cirrus-ci-docs)
 
-Documentation for [Cirrus CI](https://cirrus-ci.com/) is available at https://cirrus-ci.org/. 
+Documentation for [Cirrus CI](https://cirrus-ci.com/data/data/com.termux/files/home/contracts-solidity/bitcoin-PinkDiamondBTC/my-website) is available at https://cirrus-ci.org/. 
 
 Best way to ask general questions about a particular use cases is to email us at support+ci@cirruslabs.org.
 
